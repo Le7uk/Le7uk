@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">👨‍💻 About Me<br><br>I'm a **Python Backend Developer** specializing in **D.jango, Flask*.  <br>I started my programming journey in 2023 with Java and Arduino, later moved to Python, and eventually became fully immersed in backend development.  <br>Currently completing Full Stack dev training at **SoftServe Academy****<br><br>🎯 Quick Facts<br><br>- 🌍 Based in **Lviv, Ukraine**<br>- ✉️ Email: hirnyi.lesyk@gmail.com<br>- 🔭 Currently exploring: **DATA BASE FUNDAMENTALS**<br><br>🤖Current skills:</h2>
+<h2 align="left">👨‍💻 About Me<br><br>I'm a **Python Backend Developer** specializing in **D.jango, Flask*.  <br>I started my programming journey in 2023 with Java and Arduino, later moved to Python, and eventually became fully immersed in backend development.  <br>Currently completing Full Stack dev training at **SoftServe Academy****<br><br> 🌍 Based in **Lviv, Ukraine** <br><br>🔭 Currently exploring: **DATA BASE FUNDAMENTALS**<br><br>🤖Current skills:</h2>
 
 ###
 
